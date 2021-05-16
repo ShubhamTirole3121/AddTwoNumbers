@@ -3,9 +3,7 @@ package Schoollevel;
 public class AddTwoNumbersWithoutUsingAddition {
 	
 	    static int addition(int A, int B){
-	        // code here
-	        
-	        
+	
 	        if(B>0){
 	            while(B>0){
 	                A++;
@@ -13,7 +11,7 @@ public class AddTwoNumbersWithoutUsingAddition {
 	            }
 	           
 	        }
-	        
+		    
 	        if(B<0){
 	            while(B<0){
 	                A--;
